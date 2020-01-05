@@ -9,37 +9,37 @@
 
 * ფუძე: Debian და Ubuntu
 * მომხმარებლის გრაფიკული ინტერფეისი: Mate, KDE, Xfce, E17, LXDE
-* ვებ-გვერდი: (http://www.kali.org)
+* ვებ-გვერდი: [https://www.kali.org](https://www.kali.org)
 
 ## BackBox Linux
 იგი არის სწრაფი, ამით დისტრიბუტივს მოყვება ხელსაწყოები რომ შეუდგეთ საქმეს როგორიცაა: forensic analysis, დოკუმენტაცია და რეპორტინგი, reverse engineering, ხელსაწყოები როგორც dradis, ettercap, john, metasploit, nmap, Social Engineering Toolkit, sleuthkit, w3af, weevely, wireshark, etc. ეს დისტრიბუტივი შედის Open Soluzioni-ის პროექტში.
 
 * ფუძე: Ubuntu
 * მომხმარებლის გრაფიკული ინტერფეისი: XFCE
-* ვებ-გვერდი: http://www.backbox.org
+* ვებ-გვერდი: [https://www.backbox.org](https://www.backbox.org)
 
 ## Samurai Web Testing Framework
 ამ დისტრიბუტივის მიზანია რომ მომხმარებელს შეეძლოს ვებ საიტების ჰაკერობა, ისე რომ არაფერი არ დააზიანოს, ამიტომ ამ დისტრიბუტივს თან მოჰყევა სუსტად კონფიგურირებული და დაწერილი ვებ პროგრამები, სპეციალურად დამზადებული, რომ დაჰაკოთ და ისწავლოთ ვებ ჰაკერობის პროცესები.
 
 * ფუძე: Ubuntu
 * მომხმარებლის გრაფიკული ინტერფეისი: Gnome
-* ვებ-გვერდი: http://sourceforge.net/projects/samurai/files/
+* ვებ-გვერდი: [https://sourceforge.net/projects/samurai/files/](https://sourceforge.net/projects/samurai/files/)
 
 ## Pentoo
 ამის ბოლო ვერსიაც 2009 წელს გამოვიდა. სხვა კომპიუტერში შესახწევად კარგი ხელსაწყოების კოლექცია აქვს, Cuda/OPENCL კრეკინგი და GPU-ზე ბაზირებული გატეხვის პროგრამა pyrit.
 
 * ფუძე: Gentoo
 * მომხმარებლის გრაფიკული ინტერფეისი: Enlightenment E17
-* ვებ-გვერდი: http://www.pentoo.ch
+* ვებ-გვერდი: [https://www.pentoo.ch](https://www.pentoo.ch)
 
 ## Matriux Krypton
 ამ დისტრიბუტივით შეგიძლიათ მრავალი ხელსაწყოებით ისარგებლოთ სხვადასხვა ტიპის შეტევებისთვის: სხვა კოპიუტერში შეძვრომა, სისტემის და ქსელის ადმინისტრაცია, კიბერ forensics, უშიშროების ტესტირება, სისუსტეების (ბუგების) ძებნა/ანალიზი, ექსპლოიტების წერა და გაშვება, კრეკინგი და სხვა.
 
-* ვებ-გვერდი: http://matriux.com/index.php?page=download
+* ვებ-გვერდი: [http://matriux.com](http://matriux.com)
 
 ## Network Security Toolkit (NST)
 გთავაზობთ საინფორმატიკო უშიშროების საუკეთესო პროგრამებს. იგი აგრეთვე მუშაობს მოძველებულ კოპიუტერებზე (პენტიუმ ორი). ამავე დროს შეუძლია ქსელური მოძრაობის ანალიზი, შეტევების დეტექტირება, ქსელური პაკეტების შექმნა, უმართულო ქსელის მონიტორინგი, ქსელის სკანირება და სხვა.
 
 * ფუძე: Fedora
 * მომხმარებლის გრაფიკული ინტერფეისი: Fluxbox, Gnome
-* ვებ-გვერდი: http://www.networksecuritytoolkit.org/nst/index.html
+* ვებ-გვერდი: [http://www.networksecuritytoolkit.org/nst/index.html](http://www.networksecuritytoolkit.org/nst/index.html)
