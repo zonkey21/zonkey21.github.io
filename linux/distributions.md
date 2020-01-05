@@ -9,7 +9,7 @@
 
 * ფუძე: Debian და Ubuntu
 * მომხმარებლის გრაფიკული ინტერფეისი: Mate, KDE, Xfce, E17, LXDE
-* ვებ-გვერდი: http://www.kali.org/
+* ვებ-გვერდი: (http://www.kali.org)
 
 ## BackBox Linux
 იგი არის სწრაფი, ამით დისტრიბუტივს მოყვება ხელსაწყოები რომ შეუდგეთ საქმეს როგორიცაა: forensic analysis, დოკუმენტაცია და რეპორტინგი, reverse engineering, ხელსაწყოები როგორც dradis, ettercap, john, metasploit, nmap, Social Engineering Toolkit, sleuthkit, w3af, weevely, wireshark, etc. ეს დისტრიბუტივი შედის Open Soluzioni-ის პროექტში.
