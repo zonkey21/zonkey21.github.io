@@ -1,7 +1,7 @@
 # შესავალი
 
 whois (პორტი 43) გაძლევს ინფორმაციას მოცემული დომენის შესახებ. whois პროტოკოლის
-RFC არის RFC 3912, (https://www.ietf.org/rfc/rfc3912.txt).
+RFC არის RFC 3912, [https://www.ietf.org/rfc/rfc3912.txt](https://www.ietf.org/rfc/rfc3912.txt).
 
 ეს ინფორმაციები არის: - ადმინისტრატიული: სახელები, ტელეფონის ნომრები, და
 სვადასხვა მისამართები (admin-c, tech-c, zone-c, bill-c…); - ტექნიკური: DNS-ების
@@ -12,10 +12,10 @@ RFC არის RFC 3912, (https://www.ietf.org/rfc/rfc3912.txt).
 
 |      Whois     |      ვებ გვერდი  |                                    დომენის გეოგრაფიული ზონა   |
 | :-----------:  | :-------------:  |
-| APNIC	         | https://www.apnic.net/about-apnic/whois_search/2/  | აზია     |
-| RIPE           | https://apps.db.ripe.net/db-web-ui/#/query         | ევროპა, ახლო აღმოსავლეთის ქვეყნები, ზოგიერთი აზიის და აფრიკის ქვეყნები |
-| ARIN           | http://whois.arin.net/ui                           | ამერიკა |
-| InterNIC       | https://www.internic.net/whois.html                | .com .net .org .edu |
+| APNIC	         | [https://www.apnic.net/about-apnic/whois_search/2/](https://www.apnic.net/about-apnic/whois_search/2/)  | აზია     |
+| RIPE           | [https://apps.db.ripe.net/db-web-ui/#/query](https://apps.db.ripe.net/db-web-ui/#/query)         | ევროპა, ახლო აღმოსავლეთის ქვეყნები, ზოგიერთი აზიის და აფრიკის ქვეყნები |
+| ARIN           | [http://whois.arin.net/ui](http://whois.arin.net/ui)                           | ამერიკა |
+| InterNIC       | [https://www.internic.net/whois.html](https://www.internic.net/whois.html)                | .com .net .org .edu |
 
 # მაგალითი
 
@@ -50,13 +50,13 @@ https://www.icann.org/wicf/
 ვხედავთ რომ მოვიპოვეთ ინფორმაცია DNS-ის შესახებ.
 
 აგრეთვე შეგიძლია ინფორმაცია მოიპოვო ვებგვერების მეშვეობით როგორიცაა
-(www.whois.net), (www.internic.net/whois.html) და სხვა.
+[www.whois.net](www.whois.net), [www.internic.net/whois.html](www.internic.net/whois.html) და სხვა.
 
 # საიტები Whois-ის დასადგენად
 
 ## VisualRoute
 
-საიტი (http://www.visualroute.com) გვაჩვენებს არამარტო გზას ჩვენიდან სხვერპლამე
+საიტი [http://www.visualroute.com](http://www.visualroute.com) გვაჩვენებს არამარტო გზას ჩვენიდან სხვერპლამე
 არამედ რუქაზეც აღნიშნავს მსხვერპლის მდგომარეობას. თან გაჩვენებს ინფორნაციას
 საიტის რეგისტრაციის შესახებ. აგრეთვე არსებობს ვინდოუსის პროგრამა VisualRoute
 რომელიც იყიდება.
@@ -70,7 +70,7 @@ https://www.icann.org/wicf/
 
 ## Sam Spade
 
-საიტი (http://www.samspade.org) გვაძლევს საშუალებას რომ გავეცნოთ რომელიმე საიტის რეგისტრაციის ინფორმაციებს და რომ დავადგინოთ გზა ჩვენს სასურველ საიტამდე.
+საიტი [http://www.samspade.org](http://www.samspade.org) გვაძლევს საშუალებას რომ გავეცნოთ რომელიმე საიტის რეგისტრაციის ინფორმაციებს და რომ დავადგინოთ გზა ჩვენს სასურველ საიტამდე.
 
 # დაცვა
 რეგისტრაციის დროს მხოლოდ ზოგადი მონაცემების შეტანა, ინფორმაციის დამალვს თქვენი
