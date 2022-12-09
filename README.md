@@ -10,6 +10,9 @@
 * [შესავალი](https://zonkey21.github.io/preparation/intro)
 * [whois](https://zonkey21.github.io/preparation/whois)
 
+## სხვადასხვა
+
+* [metasploitable](https://zonkey21.github.io/misc/metasploitable)
 
 ### github.io და რედაქტირება
 
