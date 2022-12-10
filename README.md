@@ -13,6 +13,7 @@
 ## სხვადასხვა
 
 * [metasploitable](https://zonkey21.github.io/misc/metasploitable)
+* [ლექსიკონი](https://zonkey21.github.io/misc/dictionary)
 
 ### github.io და რედაქტირება
 

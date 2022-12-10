@@ -1,0 +1,41 @@
+  - **Anti-virus**:
+  - **Backdoor**:
+  - **Bind shell**:
+  - **Black hat**:
+  - **Clickjacking**:
+  - **Cryptography**:
+  - **Crypter**:
+  - **DoS/DDoS**:
+  - **Exploit**:
+  - **Honeypot**:
+  - **Human Intelligence (HUMINT)**: ინფორმაციების მოპოვნა ადამიანებთან კონტაქტის მეშვეობით.
+  - **Firewall**:
+  - **IDS**:
+  - **IPS**:
+  - **Open Source Intelligence (OSINT)**: ინფორმაციების მოპოვნა ღია წყაროების მეშვეობით.
+  - **Malware**: მავნე პროგრამა.
+  - **Man-In-The-Middle (MITM)**:
+  - **Man-In-The-Browser**:
+  - **Man-In-The-Mobile**:
+  - **Metamorphism**:
+  - **OSI**:
+  - **Packer**:
+  - **Phreaking**:
+  - **Polymorphism**:
+  - **Protector**:
+  - **Ransomware**:
+  - **Remote Code Execution (RCE)**: ექსპლოიტი ან სისუსტე რომელიც ჰაკერს საშუალებას აძლევს რომ დისტანციურად მიზანში ამოღებულ კოპიუტერში კოდი გაუშვას.
+  - **Reverse shell**:
+  - **Rootkit**:
+  - **Signals Intelligence (SIGINT)**: რადიო კომუნიკაციების ხელში ჩაგდებით ან შიფრაციის გატეხვის მეშვეობით ინფორმაციების მოპოვება.
+  - **Signature**: ხელმოწერა, ანუ პროგრამის (ვირუსის, შელკოდის, ...) მახასიათებელი აღწერა, როგორც შეიძლება იყოს კოდის პორცია.
+  - **Sniffer**: პროგრამა რომელიც "ისმენს" თუ რა ხდება ლოკალურ ქსელში და ხელში იგდებს პაკეტებს, იგი იყენება თვალთვალისთვის და პაროლობის ხელში ჩასაგდებად.
+  - **Spoofing**:
+  - **Spyware**:
+  - **TLS**:
+  - **Trojan**:
+  - **Virus**:
+  - **Wardialing**:
+  - **White hat**:
+  - **Worm**:
+  - **Zombie**: ჰაკერის მიერ გატეხილი სისტემა რომელიც იხმარება ჰაკინგის გასანხორციებლად სხვა კოპიუტერის მიმართ.
