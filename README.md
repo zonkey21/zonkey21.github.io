@@ -16,7 +16,7 @@
 
 ### ქსელური პროგრამის ფუზინგი
 
-#### [Spike](https://zonkey21.github.io/vulnsearch/fuzzing/spike)
+* [Spike](https://zonkey21.github.io/vulnsearch/fuzzing/spike)
 
 
 ## დამცველი პროგრამები
