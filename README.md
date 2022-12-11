@@ -10,6 +10,10 @@
 * [შესავალი](https://zonkey21.github.io/preparation/intro)
 * [whois](https://zonkey21.github.io/preparation/whois)
 
+## დამცველი პროგრამები
+
+* [ანტივირუსის მოქმედების პრინციპი](https://zonkey21.github.io/antivirus/antivirus_working_principle
+
 ## სხვადასხვა
 
 * [metasploitable](https://zonkey21.github.io/misc/metasploitable)
