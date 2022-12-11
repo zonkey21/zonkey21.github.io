@@ -12,7 +12,7 @@
 
 ## დამცველი პროგრამები
 
-* [ანტივირუსის მოქმედების პრინციპი](https://zonkey21.github.io/antivirus/antivirus_working_principle
+* [ანტივირუსის მოქმედების პრინციპი](https://zonkey21.github.io/antivirus/antivirus_working_principle)
 
 ## სხვადასხვა
 
