@@ -14,6 +14,8 @@
 
 ## ფუზინგი
 
+* [რა არის ფუზინგი?](https://zonkey21.github.io/fuzzing/what_is_fuzzing)
+
 ### ქსელური პროგრამის ფუზინგი
 
 * [Spike](https://zonkey21.github.io/vulnsearch/fuzzing/spike)
