@@ -10,6 +10,15 @@
 * [შესავალი](https://zonkey21.github.io/preparation/intro)
 * [whois](https://zonkey21.github.io/preparation/whois)
 
+# სისუსტეების ძებნა პროგრამებში
+
+## ფუზინგი
+
+### ქსელური პროგრამის ფუზინგი
+
+#### [Spike](https://zonkey21.github.io/vulnsearch/fuzzing/spike)
+
+
 ## დამცველი პროგრამები
 
 * [ანტივირუსის მოქმედების პრინციპი](https://zonkey21.github.io/antivirus/antivirus_working_principle)
