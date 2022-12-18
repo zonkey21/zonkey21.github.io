@@ -32,6 +32,7 @@
 
 * [metasploitable](https://zonkey21.github.io/misc/metasploitable)
 * [ლექსიკონი](https://zonkey21.github.io/misc/dictionary)
+* [გამოწვევები](https://zonkey21.github.io/misc/challenges)
 
 ### github.io და რედაქტირება
 
