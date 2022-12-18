@@ -10,8 +10,7 @@ RFC არის RFC 3912, [https://www.ietf.org/rfc/rfc3912.txt](https://www.ie
 
 # მთავარი Whois სერვერების სია
 
-|      Whois     |      ვებ გვერდი  | დომენის გეოგრაფიული ზონა 	|
-| 		 | 		    |				|
+|      Whois     |      ვებ გვერდი  											| დომენის გეოგრაფიული ზონა 	|
 | APNIC	         | [https://www.apnic.net/about-apnic/whois_search/2/](https://www.apnic.net/about-apnic/whois_search/2/)  | აზია     |
 | RIPE           | [https://apps.db.ripe.net/db-web-ui/#/query](https://apps.db.ripe.net/db-web-ui/#/query)     | ევროპა, ახლო აღმოსავლეთის ქვეყნები, ზოგიერთი აზიის და აფრიკის ქვეყნები |
 | ARIN           | [http://whois.arin.net/ui](http://whois.arin.net/ui)                           		| ამერიკა |
