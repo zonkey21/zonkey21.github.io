@@ -10,6 +10,10 @@
 * [შესავალი](https://zonkey21.github.io/preparation/intro)
 * [whois](https://zonkey21.github.io/preparation/whois)
 
+# ექსპლოიტები
+
+* [Metasploit](https://zonkey21.github.io/exploit/metasploit)
+
 # სისუსტეების ძებნა პროგრამებში
 
 ## ფუზინგი
