@@ -1,4 +1,4 @@
-# ისწავლე და გატეხე გასართობად:
+# ისწავლე და გატეხე გასართობად
 
   - **Avatao**: [https://avatao.com](https://avatao.com)
   - **Hack The Box**: [https://www.hackthebox.gr](https://www.hackthebox.gr)
