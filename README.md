@@ -10,6 +10,10 @@
 * [შესავალი](https://zonkey21.github.io/preparation/intro)
 * [whois](https://zonkey21.github.io/preparation/whois)
 
+### ქსელის ანალიზი
+
+[IDS-ისგან თავის არიდება](https://zonkey21.github.io/network/ids/ids_avoiding)
+
 # ექსპლოიტები
 
 * [Metasploit](https://zonkey21.github.io/exploit/metasploit)
