@@ -1,7 +1,7 @@
 # როგორ მოქმედებს IDS-ები და IPS-ები
 
-IDS: Intrusion Detection System
-IPS: Intrusion Prevention System
+* IDS: Intrusion Detection System
+* IPS: Intrusion Prevention System
 
   * შეტაკებების ხელმოწერის/ანაბეჭდის შექმნა
   * Buffer overflow-ების აღმოჩენა
