@@ -1,4 +1,4 @@
-```
+```c
 /**
   AES encryption/decryption demo program using OpenSSL EVP apis
   gcc -Wall openssl_aes.c -lcrypto
