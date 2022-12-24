@@ -14,12 +14,26 @@
 
 * [IDS-ისგან თავის არიდება](https://zonkey21.github.io/network/ids/ids_avoiding)
 
+## სერვისების შემოწმება სისუსტეების დასადგენად
+
+* [ვინდოუსის სისუტეების დადგენა](https://zonkey21.github.io/windows/windows_vulnerabilities_scan)
+
 # შეტევა
 
 ## მულტი პლატფორმული
 
 * [NFS საჯარო პაპკების მეშვეობით სერვერში შეხწევა](https://zonkey21.github.io/network/rpc_nfs)
 * [SQL ინექცია](https://zonkey21.github.io/web/sql_injection)
+
+## ვინდოუსის
+
+* [Shared ressources](https://zonkey21.github.io/windows/shared_ressources)
+* [Wingate Proxy Server](https://zonkey21.github.io/windows/wingate_proxy_server)
+* [Terminal Server](https://zonkey21.github.io/windows/terminal_server)
+
+## პაროლების გატეხვა
+
+* [ვინდოუსის პაროლების ჰეშების გაკრეკვა](https://zonkey21.io/windows/windows_passwords_hash_crack)
 
 ## ქსელური მოძრაობის მიმართულების შეცვლა
 
