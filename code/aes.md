@@ -1,5 +1,4 @@
 ```
-<code c>
 /**
   AES encryption/decryption demo program using OpenSSL EVP apis
   gcc -Wall openssl_aes.c -lcrypto
@@ -153,7 +152,4 @@ int main(int argc, char **argv)
 
 	return 0;
 }
-
-
-</code>
 ```
