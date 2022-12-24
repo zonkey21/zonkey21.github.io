@@ -33,7 +33,7 @@
 
 ## პაროლების გატეხვა
 
-* [ვინდოუსის პაროლების ჰეშების გაკრეკვა](https://zonkey21.io/windows/windows_passwords_hash_crack)
+* [ვინდოუსის პაროლების ჰეშების გაკრეკვა](https://zonkey21.github.io/windows/windows_passwords_hash_crack)
 
 ## ქსელური მოძრაობის მიმართულების შეცვლა
 
