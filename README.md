@@ -14,6 +14,14 @@
 
 [IDS-ისგან თავის არიდება](https://zonkey21.github.io/network/ids/ids_avoiding)
 
+# შეტევა
+
+## ქსელური მოძრაობის მიმართულების შეცვლა
+
+* [fpipe](https://zonkey21.github.io/network/fpipe.md)
+
+
+
 # ექსპლოიტები
 
 * [Metasploit](https://zonkey21.github.io/exploit/metasploit)
@@ -22,7 +30,7 @@
 
 ## ფუზინგი
 
-* [რა არის ფუზინგი?](https://zonkey21.github.io/vulnsearch/fuzzing/what_is_fuzzing)
+* [რა არის ფუზინგი?](y$https://zonkey21.github.io/vulnsearch/fuzzing/what_is_fuzzing)
 
 ### ქსელური პროგრამის ფუზინგი
 
