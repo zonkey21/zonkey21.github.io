@@ -19,6 +19,7 @@
 ## მულტი პლატფორმული
 
 * [NFS საჯარო პაპკების მეშვეობით სერვერში შეხწევა](https://zonkey21.github.io/network/rpc_nfs)
+* [SQL ინექცია](https://zonkey21.github.io/web/sql_injection)
 
 ## ქსელური მოძრაობის მიმართულების შეცვლა
 
