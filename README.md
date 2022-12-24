@@ -18,7 +18,7 @@
 
 ## ქსელური მოძრაობის მიმართულების შეცვლა
 
-* [fpipe](https://zonkey21.github.io/network/fpipe.md)
+* [fpipe](https://zonkey21.github.io/network/fpipe)
 
 
 
