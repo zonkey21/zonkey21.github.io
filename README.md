@@ -40,16 +40,21 @@
 
 * [სისუსტეების ძებნა წყარო კოდში](https://zonkey21.github.io/vulnsearch/fuzzing/source_code)
 
-## დამცველი პროგრამები
+# დამცველი პროგრამები
 
 * [ანტივირუსის მოქმედების პრინციპი](https://zonkey21.github.io/antivirus/antivirus_working_principle)
 * [IDS და IPS მოქმედების პრინციპი](https://zonkey21.github.io/network/ids/ids_ips_how_it_works)
 
-## სხვადასხვა
+# სხვადასხვა
 
 * [metasploitable](https://zonkey21.github.io/misc/metasploitable)
 * [ლექსიკონი](https://zonkey21.github.io/misc/dictionary)
 * [გამოწვევები](https://zonkey21.github.io/misc/challenges)
+
+# კოდი
+
+* [AES](https://zonkey21.github.io/code/aes)
+
 
 ### github.io და რედაქტირება
 
