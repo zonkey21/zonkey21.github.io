@@ -12,9 +12,13 @@
 
 ## ქსელის ანალიზი
 
-[IDS-ისგან თავის არიდება](https://zonkey21.github.io/network/ids/ids_avoiding)
+* [IDS-ისგან თავის არიდება](https://zonkey21.github.io/network/ids/ids_avoiding)
 
 # შეტევა
+
+## მულტი პლატფორმული
+
+* [NFS საჯარო პაპკების მეშვეობით სერვერში შეხწევა](https://zonkey21.github.io/network/rpc_nfs)
 
 ## ქსელური მოძრაობის მიმართულების შეცვლა
 
@@ -22,7 +26,6 @@
 
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
-* [RPC](https://zonkey21.github.io/network/rpc)
 
 
 # ექსპლოიტები
