@@ -16,6 +16,7 @@
 
 ## სამიზნეების ჩამოთვლა
 
+* [VPN-ების ჩამოთვლა](https://zonkey21.github.io/network/enumeration/vpn)
 
 ## ქსელის ანალიზი
 
