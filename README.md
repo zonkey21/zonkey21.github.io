@@ -10,6 +10,13 @@
 * [შესავალი](https://zonkey21.github.io/preparation/intro)
 * [whois](https://zonkey21.github.io/preparation/whois)
 
+## სამიზნეების აღმოჩენა
+
+* [სამიზნეების აღმოჩენა](https://zonkey21.github.io/network/target_discovery)
+
+## სამიზნეების ჩამოთვლა
+
+
 ## ქსელის ანალიზი
 
 * [IDS-ისგან თავის არიდება](https://zonkey21.github.io/network/ids/ids_avoiding)
