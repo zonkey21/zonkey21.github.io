@@ -10,6 +10,7 @@
 * [შესავალი](https://zonkey21.github.io/preparation/intro)
 * [whois](https://zonkey21.github.io/preparation/whois)
 * [dns-ი](https://zonkey21.github.io/preparation/dns)
+* [მარშრუტიზაცია (routing)](https://zonkey21.github.io/preparation/routing)
 
 ## სამიზნეების აღმოჩენა
 
