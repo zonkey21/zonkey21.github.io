@@ -28,6 +28,7 @@
 
 * [ვინდოუსის სისუტეების დადგენა](https://zonkey21.github.io/windows/windows_vulnerabilities_scan)
 * [LDAP](https://zonkey21.github.io/preparation/ldap)
+* [RPC](https://zonkey21.github.io/preparation/rpc)
 * [Citrix](https://zonkey21.github.io/preparation/citrix)
 
 # შეტევა
