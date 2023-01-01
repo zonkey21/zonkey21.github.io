@@ -31,6 +31,10 @@
 * [RPC](https://zonkey21.github.io/preparation/rpc)
 * [Citrix](https://zonkey21.github.io/preparation/citrix)
 
+## HTTP
+
+* [ვებ-სერვერის ვერსიის დადგენა](https://zonkey21.github.io/preparation/http_version_determination)
+
 # შეტევა
 
 ## მულტი პლატფორმული
