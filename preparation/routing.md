@@ -52,4 +52,4 @@ root@kali:~# tctrace -i wlan0 -d  www.hackthissite.org
 9(all)	Timeout
 10(2)	[178.33.100.204]
 11(1)	[137.74.187.102] (reached; open)
-
+```
