@@ -15,6 +15,7 @@
 ## სამიზნეების აღმოჩენა
 
 * [სამიზნეების აღმოჩენა](https://zonkey21.github.io/network/target_discovery)
+* [ოპერაციული სისტემის დადგენა](https://zonkey21.github.io/network/os_detection)
 
 ## სამიზნეების ჩამოთვლა
 
