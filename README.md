@@ -48,6 +48,10 @@
 * [Wingate Proxy Server](https://zonkey21.github.io/windows/wingate_proxy_server)
 * [Terminal Server](https://zonkey21.github.io/windows/terminal_server)
 
+## ლოკალურ ქსელში
+
+* [ARP Spoofing / ARP Poisoning](https://zonkey21.github.io/network/arp_spoofing)
+
 ## პაროლების გატეხვა
 
 * [ვინდოუსის პაროლების ჰეშების გაკრეკვა](https://zonkey21.github.io/windows/windows_passwords_hash_crack)
