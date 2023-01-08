@@ -23,6 +23,7 @@
 
 ## ქსელის ანალიზი
 
+* [ICMP](https://zonkey21.github.io/network/icmp)
 * [IDS-ისგან თავის არიდება](https://zonkey21.github.io/network/ids/ids_avoiding)
 * [IP-ს დაბალი ფენის შემოწმება](https://zonkey21.github.io/network/ip_low_level_analysis)
 
