@@ -84,7 +84,7 @@ Note: როგორც ეტყობა ეს ტექნიკა მა�
 
 ### Macshift
 
-Windows XP-სთვის: [[http://devices.natetrue.com/macshift|Macshift]]
+Windows XP-სთვის: [Macshift](http://devices.natetrue.com/macshift)
 
 ## WMware
 
