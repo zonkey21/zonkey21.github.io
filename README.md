@@ -31,6 +31,7 @@
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
 * [ვინდოუსის სისუტეების დადგენა](https://zonkey21.github.io/windows/windows_vulnerabilities_scan)
+* [SNMP](https://zonkey21.github.io/network/snmp)
 * [LDAP](https://zonkey21.github.io/preparation/ldap)
 * [RPC](https://zonkey21.github.io/preparation/rpc)
 * [Citrix](https://zonkey21.github.io/preparation/citrix)
