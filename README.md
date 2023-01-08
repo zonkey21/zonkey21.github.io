@@ -41,6 +41,7 @@
 
 ## მულტი პლატფორმული
 
+* [ანონიმური FTP](https://zonkey21.github.io/network/ftp)
 * [NFS საჯარო პაპკების მეშვეობით სერვერში შეხწევა](https://zonkey21.github.io/network/rpc_nfs)
 * [SQL ინექცია](https://zonkey21.github.io/web/sql_injection)
 
