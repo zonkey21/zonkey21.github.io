@@ -93,7 +93,7 @@
 
 # კავშირის შენარჩუნება
 
-* [ტუნელინგი](https://zonkey21.github.io/network/tunneling.md)
+* [ტუნელინგი](https://zonkey21.github.io/network/tunneling)
 
 # დამცველი პროგრამები
 
