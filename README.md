@@ -91,6 +91,10 @@
 
 * [სისუსტეების ძებნა წყარო კოდში](https://zonkey21.github.io/vulnsearch/fuzzing/source_code)
 
+# კავშირის შენარჩუნება
+
+* [ტუნელინგი](https://zonkey21.github.io/network/tunneling.md)
+
 # დამცველი პროგრამები
 
 * [ანტივირუსის მოქმედების პრინციპი](https://zonkey21.github.io/antivirus/antivirus_working_principle)
