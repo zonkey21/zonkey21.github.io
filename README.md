@@ -74,6 +74,10 @@
 
 * [fpipe](https://zonkey21.github.io/network/fpipe)
 
+## ბექდორები და დამალვა
+
+* [ბექდორების სახეობები](https://zonkey21.github.io/backdoor/backdoors_types)
+
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
 
