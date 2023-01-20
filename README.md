@@ -78,6 +78,7 @@
 
 * [ბექდორების სახეობები](https://zonkey21.github.io/backdoor/backdoors_types)
 * [უკუღმა შელი](https://zonkey21.github.io/backdoor/reverse_shell)
+* [Sneaky Sneaky](https://zonkey21.github.io/backdoor/sneaky_sneaky)
 
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
