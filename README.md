@@ -20,7 +20,7 @@
 ## სამიზნეების ჩამოთვლა
 
 * [სერვისების სახელწოდებების დადგენა](https://zonkey21.github.io/network/enumeration/services_fingerprinting)
-*  [ღია პორტების დადგენა](https://zonkey21.github.io/network/port_scanning)
+* [ღია პორტების დადგენა](https://zonkey21.github.io/network/port_scanning)
 * [VPN-ების ჩამოთვლა](https://zonkey21.github.io/network/enumeration/vpn)
 
 ## ქსელის ანალიზი
@@ -29,6 +29,10 @@
 * [Load balancer-ის აღმოჩენა](https://zonkey21.github.io/network/load_balancer_discovery)
 * [IDS-ისგან თავის არიდება](https://zonkey21.github.io/network/ids/ids_avoiding)
 * [IP-ს დაბალი ფენის შემოწმება](https://zonkey21.github.io/network/ip_low_level_analysis)
+
+# ბანერები
+
+* [ბანერის დადგენა](https://zonkey21.github.io/network/banner_fingerprinting)
 
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
