@@ -106,6 +106,10 @@
 
 * [ტუნელინგი](https://zonkey21.github.io/network/tunneling)
 
+# VX
+
+[პროგრამირების სტრატეგია](https://zonkey21.github.io/vx/programming_strategy)
+
 # დამცველი პროგრამები
 
 * [ანტივირუსის მოქმედების პრინციპი](https://zonkey21.github.io/antivirus/antivirus_working_principle)
