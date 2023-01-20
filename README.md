@@ -20,6 +20,7 @@
 ## სამიზნეების ჩამოთვლა
 
 * [სერვისების სახელწოდებების დადგენა](https://zonkey21.github.io/network/enumeration/services_fingerprinting)
+*  [ღია პორტების დადგენა](https://zonkey21.github.io/network/port_scanning)
 * [VPN-ების ჩამოთვლა](https://zonkey21.github.io/network/enumeration/vpn)
 
 ## ქსელის ანალიზი
