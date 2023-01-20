@@ -77,6 +77,7 @@
 ## ბექდორები და დამალვა
 
 * [ბექდორების სახეობები](https://zonkey21.github.io/backdoor/backdoors_types)
+* [უკუღმა შელი](https://zonkey21.github.io/backdoor/reverse_shell)
 
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
