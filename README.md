@@ -84,8 +84,6 @@
 
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
-
-
 # ექსპლოიტები
 
 * [Metasploit](https://zonkey21.github.io/exploit/metasploit)
