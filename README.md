@@ -108,7 +108,7 @@
 
 # VX
 
-[პროგრამირების სტრატეგია](https://zonkey21.github.io/vx/programming_strategy)
+* [პროგრამირების სტრატეგია](https://zonkey21.github.io/vx/programming_strategy)
 
 # დამცველი პროგრამები
 
