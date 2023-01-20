@@ -77,6 +77,7 @@
 ## ბექდორები და დამალვა
 
 * [ბექდორების სახეობები](https://zonkey21.github.io/backdoor/backdoors_types)
+* [პროგრამის ატვირთვა და გაშვება](https://zonkey21.github.io/backdoor/backdoor_upload)
 * [უკუღმა შელი](https://zonkey21.github.io/backdoor/reverse_shell)
 * [Sneaky Sneaky](https://zonkey21.github.io/backdoor/sneaky_sneaky)
 
