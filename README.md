@@ -68,6 +68,7 @@
 
 ## პაროლების გატეხვა
 
+* [მდ5-ის გატეხვა](https://zonkey21.github.io/password_cracking/md5)
 * [ვინდოუსის პაროლების ჰეშების გაკრეკვა](https://zonkey21.github.io/windows/windows_passwords_hash_crack)
 
 ### მონაცემების ბაზები
