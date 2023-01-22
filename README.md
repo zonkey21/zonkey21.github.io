@@ -72,6 +72,7 @@
 * [ვინდოუსის პაროლების ჰეშების გაკრეკვა](https://zonkey21.github.io/windows/windows_passwords_hash_crack)
 * [SSH](https://zonkey21.github.io/password_cracking/ssh)
 * [RDP](https://zonkey21.github.io/password_cracking/rdp)
+* [VNC](https://zonkey21.github.io/password_cracking/vnc)
 * [FTP/POP3/IMAP პაროლის გატეხვა](https://zonkey21.github.io/password_cracking/misc_passwords_crack)
 
 ### მონაცემების ბაზები
