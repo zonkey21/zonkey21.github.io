@@ -70,6 +70,10 @@
 
 * [ვინდოუსის პაროლების ჰეშების გაკრეკვა](https://zonkey21.github.io/windows/windows_passwords_hash_crack)
 
+### მონაცემების ბაზები
+
+* [Microsoft SQL-ის პაროლის გატეხვა](https://zonkey21.github.io/password_cracking/mssql)
+
 ## ქსელური მოძრაობის მიმართულების შეცვლა
 
 * [fpipe](https://zonkey21.github.io/network/fpipe)
