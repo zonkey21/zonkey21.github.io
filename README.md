@@ -95,7 +95,7 @@
 
 ## ანონიმობა
 
-* [იუნიქსში](https://zonkey21.github.io/anonymous/unix
+* [იუნიქსში](https://zonkey21.github.io/anonymous/unix)
 
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
