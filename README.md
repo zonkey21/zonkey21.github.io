@@ -93,6 +93,10 @@
 * [უკუღმა შელი](https://zonkey21.github.io/backdoor/reverse_shell)
 * [Sneaky Sneaky](https://zonkey21.github.io/backdoor/sneaky_sneaky)
 
+## ანონიმობა
+
+* [იუნიქსში](https://zonkey21.github.io/anonymous/unix
+
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
 # ექსპლოიტები
