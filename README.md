@@ -73,6 +73,7 @@
 ### მონაცემების ბაზები
 
 * [Microsoft SQL-ის პაროლის გატეხვა](https://zonkey21.github.io/password_cracking/mssql)
+* [MySQL-ის პაროლის გატეხვა](https://zonkey21.github.io/password_cracking/mysql)
 
 ## ქსელური მოძრაობის მიმართულების შეცვლა
 
