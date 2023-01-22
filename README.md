@@ -73,6 +73,7 @@
 * [SSH](https://zonkey21.github.io/password_cracking/ssh)
 * [RDP](https://zonkey21.github.io/password_cracking/rdp)
 * [VNC](https://zonkey21.github.io/password_cracking/vnc)
+* [Telnet](https://zonkey21.github.io/password_cracking/telnet)
 * [FTP/POP3/IMAP პაროლის გატეხვა](https://zonkey21.github.io/password_cracking/misc_passwords_crack)
 
 ### მონაცემების ბაზები
