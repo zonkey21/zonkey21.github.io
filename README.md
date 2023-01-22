@@ -105,6 +105,7 @@
 # ექსპლოიტები
 
 * [შელკოდის დეშიფრაცია](https://zonkey21.github.io/exploit/exploit_decryption)
+* [მარგი ტვირთის სახეობები](https://zonkey21.github.io/exploit/exploits_types)
 
 # კავშირის შენარჩუნება
 
