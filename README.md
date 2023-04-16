@@ -51,6 +51,8 @@
 ## მულტი პლატფორმული
 
 * [ანონიმური FTP](https://zonkey21.github.io/network/ftp)
+* HTTP
+  * [w3af](https://zonkey21.github.io/network/http/w3af)
 * [MAC მისამართის გაყალბება](https://zonkey21.github.io/network/mac_address_spoofing)
 * [NFS საჯარო პაპკების მეშვეობით სერვერში შეხწევა](https://zonkey21.github.io/network/rpc_nfs)
 * [ფუზინგი](https://zonkey21.github.io/network/fuzzing)
