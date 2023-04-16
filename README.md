@@ -107,6 +107,12 @@
 # ექსპლოიტები
 
 * [Metasploit](https://zonkey21.github.io/exploit/metasploit)
+* [შელკოდის დეშიფრაცია](https://zonkey21.github.io/exploit/exploit_decryption)
+* [მარგი ტვირთის სახეობები](https://zonkey21.github.io/exploit/exploits_types)
+
+# კავშირის შენარჩუნება
+
+* [ტუნელინგი](https://zonkey21.github.io/network/tunneling)
 
 # სისუსტეების ძებნა პროგრამებში
 
@@ -122,14 +128,6 @@
 
 * [სისუსტეების ძებნა წყარო კოდში](https://zonkey21.github.io/vulnsearch/fuzzing/source_code)
 
-# ექსპლოიტები
-
-* [შელკოდის დეშიფრაცია](https://zonkey21.github.io/exploit/exploit_decryption)
-* [მარგი ტვირთის სახეობები](https://zonkey21.github.io/exploit/exploits_types)
-
-# კავშირის შენარჩუნება
-
-* [ტუნელინგი](https://zonkey21.github.io/network/tunneling)
 
 # VX
 
