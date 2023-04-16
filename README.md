@@ -54,7 +54,7 @@
 * HTTP
   * [w3af](https://zonkey21.github.io/network/http/w3af)
   * [arachni](https://zonkey21.github.io/network/http/arachni)
-  * [სუსტი აუთინთირება და სესიების მართვა](https://zonkey21.github.io/network/http/weak_auth.md)
+  * [სუსტი აუთინთირება და სესიების მართვა](https://zonkey21.github.io/network/http/weak_auth)
 * [MAC მისამართის გაყალბება](https://zonkey21.github.io/network/mac_address_spoofing)
 * [NFS საჯარო პაპკების მეშვეობით სერვერში შეხწევა](https://zonkey21.github.io/network/rpc_nfs)
 * [ფუზინგი](https://zonkey21.github.io/network/fuzzing)
