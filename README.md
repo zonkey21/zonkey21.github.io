@@ -64,6 +64,7 @@
 
 ## ლოკალურ ქსელში
 
+* [სნიფინგი ანუ პაკეტების ხელში ჩაგდება](https://zonkey21..github.io/network/sniffing)
 * [ARP Spoofing / ARP Poisoning](https://zonkey21.github.io/network/arp_spoofing)
 
 ## პაროლების გატეხვა
