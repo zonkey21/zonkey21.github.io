@@ -56,6 +56,7 @@
   * [arachni](https://zonkey21.github.io/network/http/arachni)
   * [სუსტი აუთინთირება და სესიების მართვა](https://zonkey21.github.io/network/http/weak_auth)
   * SQL ინექცია
+    * [Firefox-ის მოდული: SQL Inject Me](https://zonkey21.github.io/web/sql_injection/firefox_sql_inject_me)
     * [schemafuzz.py](https://zonkey21.github.io/network/web/sql_injection/schemafuzz)
   * Cross-Site Scripting (XSS)
     * [რა არის Cross-Site Scripting (XSS)](https://zonkey21.github.io/network/http/xss/what_is_xss)
