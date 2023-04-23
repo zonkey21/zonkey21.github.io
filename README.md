@@ -67,6 +67,7 @@
   * Cross-Site Request Forgery (CSRF)
     * [რა არის Cross-Site Request Forgery (CSRF)](https://zonkey21.github.io/network/http/csrf/what_is_csrf)
     * [Firefox-იდ addon-ი Tamper Data](https://zonkey21.github.io/network/http/csrf/firefox_addon_tamper_data)
+  * [HTTP სისუსტეების დადგენა](https://zonkey21.github.io/network/http/http_vulns_scan)
   * [ვებ სერვერის კონფიგურაციის შემოწმება](https://zonkey21.github.io/network/http/web_config_verification)
   * [დაუცველი ობიექტის პირდაპირ მითითება](https://zonkey21.github.io/network/http/defenseless_targets)
 * [IP მისამართის გაყალბება](https://zonkey21.github.io/network/ip_address_change)
