@@ -59,7 +59,7 @@
     * [რა არის SQL ინექცია](https://zonkey21.github.io/web/sql_injection/what_is_sqli)
     * [SQL ინექციის ტუტორიალი](https://zonkey21.github.io/web/sql_injection/tutorial)
     * [Firefox-ის მოდული: SQL Inject Me](https://zonkey21.github.io/web/sql_injection/firefox_sql_inject_me)
-    * [schemafuzz.py](https://zonkey21.github.io/network/web/sql_injection/schemafuzz)
+    * [schemafuzz.py](https://zonkey21.github.io/web/sql_injection/schemafuzz)
   * Cross-Site Scripting (XSS)
     * [რა არის Cross-Site Scripting (XSS)](https://zonkey21.github.io/network/http/xss/what_is_xss)
     * [ხელსაწყო Zed Attack Proxy (ZAP)](https://zonkey21.github.io/network/http/xss/zap)
