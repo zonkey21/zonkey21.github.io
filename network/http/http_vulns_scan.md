@@ -93,7 +93,7 @@ ASP.NET არის .NET პლატფორმსთვის შექმ�
    ADNVersion   -> 1.0.3705.288
 ```
 
-===== WebDAV =====
+### WebDAV
 
 WebDAV-ი არის HTTP პროტოკოლზე დამოკიდებული სერვისი. რომ გავიგოთ თუ WebDAV-ი ხმარობს SEARCH და PROPFIND HTTP მეთოდებს უნდა გამოვიყენოთ კითხვა OPTIONS / HTTP/1.0.
 
