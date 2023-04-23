@@ -60,17 +60,18 @@
     * [SQL ინექციის ტუტორიალი](https://zonkey21.github.io/web/sql_injection/tutorial)
     * [Firefox-ის მოდული: SQL Inject Me](https://zonkey21.github.io/web/sql_injection/firefox_sql_inject_me)
     * [schemafuzz.py](https://zonkey21.github.io/web/sql_injection/schemafuzz)
+    * [SQL ინექცია](https://zonkey21.github.io/web/sql_injection)
   * Cross-Site Scripting (XSS)
     * [რა არის Cross-Site Scripting (XSS)](https://zonkey21.github.io/network/http/xss/what_is_xss)
     * [ხელსაწყო Zed Attack Proxy (ZAP)](https://zonkey21.github.io/network/http/xss/zap)
   * Cross-Site Request Forgery (CSRF)
     * [რა არის Cross-Site Request Forgery (CSRF)](https://zonkey21.github.io/network/http/csrf/what_is_csrf)
     * [Firefox-იდ addon-ი Tamper Data](https://zonkey21.github.io/network/http/csrf/firefox_addon_tamper_data)
+  * [დაუცველი ობიექტის პირდაპირ მითითება](https://zonkey21.github.io/network/http/defenseless_targets)
 * [IP მისამართის გაყალბება](https://zonkey21.github.io/network/ip_address_change)
 * [MAC მისამართის გაყალბება](https://zonkey21.github.io/network/mac_address_spoofing)
 * [NFS საჯარო პაპკების მეშვეობით სერვერში შეხწევა](https://zonkey21.github.io/network/rpc_nfs)
 * [ფუზინგი](https://zonkey21.github.io/network/fuzzing)
-* [SQL ინექცია](https://zonkey21.github.io/web/sql_injection)
 
 ## ვინდოუსის
 
