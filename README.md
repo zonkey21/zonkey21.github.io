@@ -55,6 +55,8 @@
   * [w3af](https://zonkey21.github.io/network/http/w3af)
   * [arachni](https://zonkey21.github.io/network/http/arachni)
   * [სუსტი აუთინთირება და სესიების მართვა](https://zonkey21.github.io/network/http/weak_auth)
+  * SQL ინექცია
+    * [schemafuzz.py](https://zonkey21.github.io/network/web/sql_injection/schemafuzz)
   * Cross-Site Scripting (XSS)
     * [რა არის Cross-Site Scripting (XSS)](https://zonkey21.github.io/network/http/xss/what_is_xss)
     * [ხელსაწყო Zed Attack Proxy (ZAP)](https://zonkey21.github.io/network/http/xss/zap)
