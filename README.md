@@ -125,6 +125,10 @@
 * [შელკოდის დეშიფრაცია](https://zonkey21.github.io/exploit/exploit_decryption)
 * [მარგი ტვირთის სახეობები](https://zonkey21.github.io/exploit/exploits_types)
 
+# პრივილეგიების მომატება
+
+* [ქსელური spoofing-ი](https://zonkey21.github.io/network/net_spoofing)
+
 # კავშირის შენარჩუნება
 
 * [ტუნელინგი](https://zonkey21.github.io/network/tunneling)
