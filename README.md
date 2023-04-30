@@ -137,6 +137,7 @@
 
 # კავშირის შენარჩუნება
 
+* [ბექდორი](https://zonkey21.github.io/backdoor/backdoor_generation)
 * [ტუნელინგი](https://zonkey21.github.io/network/tunneling)
 
 # სისუსტეების ძებნა პროგრამებში
