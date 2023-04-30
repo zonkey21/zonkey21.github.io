@@ -129,8 +129,8 @@
 
 # პრივილეგიების მომატება
 
-* [პაროლის გატეხვა ჩართულ რეჟიმში](https://zonkey21.github.io/privilege_escalation/password_cracking_online.md)
-* [პაროლის გატეხვა გამორთულ რეჟიმში](https://zonkey21.github.io/privilege_escalation/password_cracking_offline.md)
+* [პაროლის გატეხვა ჩართულ რეჟიმში](https://zonkey21.github.io/privilege_escalation/password_cracking_online)
+* [პაროლის გატეხვა გამორთულ რეჟიმში](https://zonkey21.github.io/privilege_escalation/password_cracking_offline)
 * [პაროლების სიების შექმნა](https://zonkey21.github.io/privilege_escalation/password_dictionary_generation)
 * [პრივილეგიების ესკალაციის კონცეპტი](https://zonkey21.github.io/privilege_escalation/pe_concept)
 * [ქსელური spoofing-ი](https://zonkey21.github.io/network/net_spoofing)
