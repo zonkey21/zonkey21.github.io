@@ -139,6 +139,7 @@
 
 * [ბექდორი](https://zonkey21.github.io/backdoor/backdoor_generation)
 * [ტუნელინგი](https://zonkey21.github.io/network/tunneling)
+* [ვებ ბექდორების შექმნა](https://zonkey21.github.io/backdoor/web_backdoor_generation)
 
 # სისუსტეების ძებნა პროგრამებში
 
