@@ -129,6 +129,7 @@
 
 # პრივილეგიების მომატება
 
+* [პრივილეგიების ესკალაციის კონცეპტი](https://zonkey21.github.io/privilege_escalation/pe_concept)
 * [ქსელური spoofing-ი](https://zonkey21.github.io/network/net_spoofing)
 
 # კავშირის შენარჩუნება
