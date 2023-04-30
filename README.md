@@ -170,6 +170,7 @@
 * [metasploitable](https://zonkey21.github.io/misc/metasploitable)
 * [ლექსიკონი](https://zonkey21.github.io/misc/dictionary)
 * [გამოწვევები](https://zonkey21.github.io/misc/challenges)
+* [ხელსაწყოები](https://www.kali.org/tools/all-tools)
 
 # კოდი
 
