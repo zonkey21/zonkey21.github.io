@@ -121,6 +121,7 @@
 
 # ექსპლოიტები
 
+* [ექსპლოიტების ძიება](https://zonkey21.github.io/exploit/exploit_search)
 * [Metasploit](https://zonkey21.github.io/exploit/metasploit)
 * [შელკოდის დეშიფრაცია](https://zonkey21.github.io/exploit/exploit_decryption)
 * [მარგი ტვირთის სახეობები](https://zonkey21.github.io/exploit/exploits_types)
