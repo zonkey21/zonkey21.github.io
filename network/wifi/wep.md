@@ -1,1 +1,1 @@
-საჭიროა რომ იცოდე თუ შენს კარტას შეუძლია პაკეტების ინექცია, ეს სია ნახე [](http://www.aircrack-ng.org/doku.php?id=compatibility_drivers#which_is_the_best_card_to_buy).
+საჭიროა რომ იცოდე თუ შენს კარტას შეუძლია პაკეტების ინექცია, ეს სია ნახე [http://www.aircrack-ng.org/doku.php?id=compatibility_drivers#which_is_the_best_card_to_buy](http://www.aircrack-ng.org/doku.php?id=compatibility_drivers#which_is_the_best_card_to_buy).
