@@ -46,6 +46,7 @@
 ## HTTP
 
 * [ვებ-სერვერის ვერსიის დადგენა](https://zonkey21.github.io/preparation/http_version_determination)
+* [ვებ აპლიკაციის ანალიზი](https://zonkey21.github.io/preparation/web_application_analysis)
 
 # შეტევა
 
