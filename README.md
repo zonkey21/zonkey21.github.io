@@ -72,6 +72,7 @@
   * [HTTP სისუსტეების დადგენა](https://zonkey21.github.io/network/http/http_vulns_scan)
   * [ვებ სერვერის კონფიგურაციის შემოწმება](https://zonkey21.github.io/network/http/web_config_verification)
   * [დაუცველი ობიექტის პირდაპირ მითითება](https://zonkey21.github.io/network/http/defenseless_targets)
+* [DoS](https://zonkey21.github.io/network/dos)
 * [IP მისამართის გაყალბება](https://zonkey21.github.io/network/ip_address_change)
 * [MAC მისამართის გაყალბება](https://zonkey21.github.io/network/mac_address_spoofing)
 * [NFS საჯარო პაპკების მეშვეობით სერვერში შეხწევა](https://zonkey21.github.io/network/rpc_nfs)
