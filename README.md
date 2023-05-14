@@ -157,6 +157,9 @@
 
 * [სისუსტეების ძებნა წყარო კოდში](https://zonkey21.github.io/vulnsearch/fuzzing/source_code)
 
+# Wifi
+
+* [WEP](https://zonkey21.github.io/network/wifi/wep)
 
 # VX
 
