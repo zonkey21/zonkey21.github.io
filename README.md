@@ -37,6 +37,7 @@
 
 ## სერვისების შემოწმება სისუსტეების დასადგენად
 
+* [რა არის სისუსტეების დადგენა](https://zonkey21.github.io/network/what_is_vulnerabilities_search)
 * [ვინდოუსის სისუტეების დადგენა](https://zonkey21.github.io/windows/windows_vulnerabilities_scan)
 * [SNMP](https://zonkey21.github.io/network/snmp)
 * [LDAP](https://zonkey21.github.io/preparation/ldap)
@@ -120,8 +121,6 @@
 ## ანონიმობა
 
 * [იუნიქსში](https://zonkey21.github.io/anonymous/unix)
-
-## სერვისების შემოწმება სისუსტეების დასადგენად
 
 # ექსპლოიტები
 
