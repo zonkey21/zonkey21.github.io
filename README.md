@@ -74,6 +74,7 @@
   * [დაუცველი ობიექტის პირდაპირ მითითება](https://zonkey21.github.io/network/http/defenseless_targets)
 * [DoS](https://zonkey21.github.io/network/dos)
 * [IP მისამართის გაყალბება](https://zonkey21.github.io/network/ip_address_change)
+* [IP spoofing](https://zonkey21.github.io/network/ip_spoofing)
 * [MAC მისამართის გაყალბება](https://zonkey21.github.io/network/mac_address_spoofing)
 * [NFS საჯარო პაპკების მეშვეობით სერვერში შეხწევა](https://zonkey21.github.io/network/rpc_nfs)
 * [ფუზინგი](https://zonkey21.github.io/network/fuzzing)
